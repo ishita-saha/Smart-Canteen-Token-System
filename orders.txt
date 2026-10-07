@@ -1,0 +1,15 @@
+
+========================================
+             ORDER DETAILS
+========================================
+Token Number : 1001
+Student      : Jasmeen
+Student ID   : STU001
+
+Items:
+Veg Sandwich           x 2   = Rs. 100.00
+Veg Sandwich           x 3   = Rs. 150.00
+
+Total Amount : Rs. 250.00
+========================================
+
